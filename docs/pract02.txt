@@ -1,1 +1,5 @@
 Trabajo en equipo con git
+
+¿Cual es la diferencia entre compilacion e interpretacion?
+La compilacion consiste en la traduccion del codigo fuente al lenguaje maquina, mientras que la interpretacion consiste en tomar cada linea del codigo, analizarla y ejecutarla al mismo tiempo.
+
